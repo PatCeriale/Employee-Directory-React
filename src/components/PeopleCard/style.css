@@ -1,0 +1,12 @@
+.PeopleCard {
+  background-image: url(https://img.freepik.com/free-photo/natural-white-marble-texture-skin-tile-wallpaper-luxurious-background_24076-297.jpg?size=626&ext=jpg);
+  background-size: cover;
+  margin: 5px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+/* .PeopleCard .card-img-top {
+  height: 150px;
+  width: 150px;
+} */

@@ -1,0 +1,19 @@
+.navbar {
+  background-image: url(https://i.pinimg.com/originals/b2/71/f1/b271f1066c683112c42cdd03a216a205.jpg);
+  background-size: cover;
+  left: 0%;
+  color: yellow;
+}
+.navbar h2 {
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  text-size-adjust: 3px;
+}
+
+.searchDiv {
+  right: 0%;
+}
+.dropdown-toggle {
+  background-color: ivory;
+  right: 0%;
+  color: black;
+}
